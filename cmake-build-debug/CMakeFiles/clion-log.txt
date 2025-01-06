@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Frim\Desktop\PG\project -B C:\Users\Frim\Desktop\PG\project\cmake-build-debug
+-- Including Win32 support
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Documentation generation requires Doxygen 1.9.8 or later
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Frim/Desktop/PG/project/cmake-build-debug

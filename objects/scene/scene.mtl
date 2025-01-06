@@ -1,0 +1,495 @@
+# Blender 4.3.2 MTL File: 'scene.blend'
+# www.blender.org
+
+newmtl Axes
+Ns 27.245035
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_2.004.png
+
+newmtl Banyan_Bark_1_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Banyan_Bark_1.png
+map_Bump -bm 1.000000 textures/Banyan_Bark_1_Normal.png
+
+newmtl Banyan_front_1_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1.png
+map_d textures/Banyan_front_1_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_Normal.png
+
+newmtl Banyan_front_1_fall_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_fall.png
+map_d textures/Banyan_front_1_fall_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_fall_Normal.png
+
+newmtl Banyan_front_1_fall_transistion_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_fall_transistion.png
+map_d textures/Banyan_front_1_fall_transistion_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_fall_transistion_Normal.png
+
+newmtl Banyan_front_1_fall_transistion_v2_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_fall_transistion_v2.png
+map_d textures/Banyan_front_1_fall_transistion_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_fall_transistion_Normal.png
+
+newmtl Banyan_front_1_fall_transistion_v3_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_fall_transistion_v3.png
+map_d textures/Banyan_front_1_fall_transistion_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_fall_transistion_Normal.png
+
+newmtl Banyan_front_1_fall_transistion_v4_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_fall_transistion_v4.png
+map_d textures/Banyan_front_1_fall_transistion_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_fall_transistion_Normal.png
+
+newmtl Banyan_front_1_fall_v2_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_fall_v2.png
+map_d textures/Banyan_front_1_fall_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_fall_Normal.png
+
+newmtl Banyan_front_1_fall_v3_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_fall_v3.png
+map_d textures/Banyan_front_1_fall_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_fall_Normal.png
+
+newmtl Banyan_front_1_fall_v4_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_fall_v4.png
+map_d textures/Banyan_front_1_fall_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_fall_Normal.png
+
+newmtl Banyan_front_1_summer_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_summer.png
+map_d textures/Banyan_front_1_summer_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_summer_Normal.png
+
+newmtl Banyan_front_1_v2_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_v2.png
+map_d textures/Banyan_front_1_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_Normal.png
+
+newmtl Banyan_front_1_v3_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_v3.png
+map_d textures/Banyan_front_1_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_Normal.png
+
+newmtl Banyan_front_1_v4_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_v4.png
+map_d textures/Banyan_front_1_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_Normal.png
+
+newmtl Banyan_front_1_winter_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_winter.png
+map_d textures/Banyan_front_1_winter_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_winter_Normal.png
+
+newmtl Banyan_front_1_winter_v2_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_winter_v2.png
+map_d textures/Banyan_front_1_winter_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_winter_Normal.png
+
+newmtl Banyan_front_1_winter_v3_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_winter_v3.png
+map_d textures/Banyan_front_1_winter_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_winter_Normal.png
+
+newmtl Banyan_front_1_winter_v4_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_1_winter_v4.png
+map_d textures/Banyan_front_1_winter_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_1_winter_Normal.png
+
+newmtl Banyan_front_3_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_3.png
+map_d textures/Banyan_front_3_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_3_Normal.png
+
+newmtl Banyan_front_3_fall_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_3_fall.png
+map_d textures/Banyan_front_3_fall_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_3_fall_Normal.png
+
+newmtl Banyan_front_3_fall_transistion_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_3_fall_transistion.png
+map_d textures/Banyan_front_3_fall_transistion_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_3_fall_transistion_Normal.png
+
+newmtl Banyan_front_3_summer_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_3_summer.png
+map_d textures/Banyan_front_3_summer_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_3_summer_Normal.png
+
+newmtl Banyan_front_3_summer_v2_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_3_summer_v2.png
+map_d textures/Banyan_front_3_summer_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_3_summer_Normal.png
+
+newmtl Banyan_front_3_summer_v3_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_3_summer_v3.png
+map_d textures/Banyan_front_3_summer_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_3_summer_Normal.png
+
+newmtl Banyan_front_3_summer_v4_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_3_summer_v4.png
+map_d textures/Banyan_front_3_summer_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_3_summer_Normal.png
+
+newmtl Banyan_front_3_winter_Mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Banyan_front_3_winter.png
+map_d textures/Banyan_front_3_winter_Opacity.png
+map_Bump -bm 1.000000 textures/Banyan_front_3_winter_Normal.png
+
+newmtl DefaultMaterial
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.015.jpg
+map_Ke textures/Image_2.012.jpg
+map_Bump -bm 1.000000 textures/Image_3.001.png
+
+newmtl Firewood
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.006.png
+map_Bump -bm 1.000000 textures/Image_1.006.png
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/ground Diffuse.jpg
+map_Ns textures/ground Roughness.jpg
+map_Bump -bm 1.000000 textures/ground Normal.jpg
+
+newmtl Material.003
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Forest_Path_ugsnfawlw_1K_BaseColor.jpg
+map_Ks textures/Forest_Path_ugsnfawlw_1K_Specular.jpg
+map_Ns textures/Forest_Path_ugsnfawlw_1K_Roughness.jpg
+map_refl textures/Forest_Path_ugsnfawlw_1K_Gloss.jpg
+map_Bump -bm 1.000000 textures/Forest_Path_ugsnfawlw_1K_Normal.jpg
+
+newmtl Picnic_Table
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.140000 0.140000 0.140000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.001.png
+map_Bump -bm 1.000000 textures/Image_2.png
+
+newmtl Round_Hay_Bale_rlCay_Low
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.014.jpg
+map_Bump -bm 1.000000 textures/Image_2.011.jpg
+
+newmtl Scene_-_Root
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.002.png
+map_Bump -bm 1.000000 textures/Image_2.001.png
+
+newmtl Scene_-_Root.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.003.png
+map_Bump -bm 1.000000 textures/Image_2.002.png
+
+newmtl Well
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.007.png
+map_Bump -bm 1.000000 textures/Image_2.005.png
+
+newmtl Wood
+Ns 58.400997
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.005.png
+
+newmtl defaultMat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.004.jpg
+map_Bump -bm 1.000000 textures/Image_2.003.png
+
+newmtl glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd textures/Image_4.png
+map_Ke textures/Image_6.jpg
+map_d textures/Image_4.png
+map_Bump -bm 1.000000 textures/Image_7.png
+
+newmtl grabary
+Ns 68.627434
+Ka 1.000000 1.000000 1.000000
+Ks 0.061224 0.061224 0.061224
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Grobary texture.png
+map_Bump -bm 0.871795 textures/Grobary texture.png
+
+newmtl lambert1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.147199 0.147199 0.147199
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.008.png
+map_Bump -bm 0.302684 textures/Image_2.006.png
+
+newmtl lambert1.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.147199 0.147199 0.147199
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.009.png
+map_Bump -bm 0.302684 textures/Image_2.007.png
+
+newmtl lambert1.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.147199 0.147199 0.147199
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.011.png
+map_Bump -bm 0.302684 textures/Image_2.009.png
+
+newmtl lambert1.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.147199 0.147199 0.147199
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Image_0.012.png
+map_Bump -bm 0.302684 textures/Image_2.010.png
+
+newmtl windmill_001_base_COL.jpg
+Ns 5.097269
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Image_0.013.jpg
