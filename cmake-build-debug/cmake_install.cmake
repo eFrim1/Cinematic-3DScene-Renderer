@@ -39,7 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Frim/Desktop/PG/project/cmake-build-debug/_deps/glm-build/cmake_install.cmake")
   include("C:/Users/Frim/Desktop/PG/project/cmake-build-debug/external/cmake_install.cmake")
 
 endif()

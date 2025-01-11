@@ -13,14 +13,16 @@ add_definitions(
 )
 
 add_subdirectory (glfw-3.4)
+add_subdirectory (glm)
 
 include_directories(
         glfw-3.4/include/GLFW/
         glew-2.1.0/include/
+        glm/
 )
 
 set(GLEW_SOURCE glew-2.1.0/src/glew.c)
-set(GLEW_HEADERS glew-2.1.0/include/GL/glew.h)
+set(GLEW_HEADERS glew-2.1.0/include/GL)
 
 add_library( GLEW_210 STATIC
         ${GLEW_SOURCE}
